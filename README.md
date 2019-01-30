@@ -27,4 +27,4 @@ For example:
 
 ## Operating System Compatibility
 
-> DISCLAIMER: I have only tested this on Ubuntu 18.04
+> DISCLAIMER: I have only tested this on Ubuntu 16.04
