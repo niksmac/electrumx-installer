@@ -11,7 +11,7 @@ UPDATE_PYTHON=0
 VERBOSE=0
 USE_ROCKSDB=1
 ELECTRUMX_GIT_URL="https://github.com/cipig/electrumx"
-ELECTRUMX_GIT_BRANCH="kmdassets"
+ELECTRUMX_GIT_BRANCH=""
 
 installer=$(realpath $0)
 
